@@ -1,0 +1,5 @@
+opencv-python
+numpy
+pillow
+python-snap7
+tqdm
